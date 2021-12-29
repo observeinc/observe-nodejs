@@ -18,7 +18,7 @@ or whatever -- but it's convenient as an option for certain use cases.
 Example code
 ------------
 
-    import { Observer } from './observer.js';
+    import { Observer } from 'observe-nodejs';
     
     const params = {
         url: "https://collect.observeinc.com/v1/http/observe-nodejs/main",
@@ -49,3 +49,9 @@ prefer.
 
 This code is free to use in your own programs, under the terms of the Apache
 2.0 license.
+
+FAQs
+----
+
+  Q1. Is there a CommonJS version of this module?
+  A1. No (not yet, at least.)
