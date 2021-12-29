@@ -1,0 +1,26 @@
+{
+  "name": "observe-nodejs",
+  "version": "1.0.0",
+  "description": "Send structured observations out of a node.js based server or client program",
+  "main": "src/observer.js",
+  "type": "module",
+  "scripts": {
+    "test": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/observeinc/observe-nodejs.git"
+  },
+  "keywords": [
+    "observe",
+    "observability",
+    "metrics",
+    "logging"
+  ],
+  "author": "Jon Watte, Observe Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/observeinc/observe-nodejs/issues"
+  },
+  "homepage": "https://github.com/observeinc/observe-nodejs#readme"
+}
